@@ -1,5 +1,5 @@
 var dogName = "Marc Rheign Llanto" ;
-var dogWeight = 10;
+var dogWeight = 16;
 if (dogWeight > 20) {
     console.log(dogName + "says WOOF WOOF AHHHHH");
 } else {
@@ -7,7 +7,7 @@ if (dogWeight > 20) {
 }
 
 var dogName = "Bryan Hyacinth Narte" ;
-var dogWeight = 15;
+var dogWeight = 22;
 if (dogWeight > 20) {
     console.log(dogName + "says WOOF WOOF AHHHHH");
 } else {
@@ -15,7 +15,7 @@ if (dogWeight > 20) {
 }
 
 var dogName = "Ricardo Abao Jr." ;
-var dogWeight = 14;
+var dogWeight = 21;
 if (dogWeight > 20) {
     console.log(dogName + "says WOOF WOOF AHHHHH");
 } else {
